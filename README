@@ -1,0 +1,23 @@
+【概要】
+m3uファイルにあるflacファイルをmp3ファイルに変換するスクリプト。
+
+【目的】
+flac形式で取り込んだ音源をそのままのディレクトリ構成で
+mp3形式にエンコードするためのスクリプト
+
+【動作環境確認】
+Vista x64
+
+【必要なもの】
+flac.exe,metaflac.exe,lame64.exe
+
+flac - download page
+http://flac.sourceforge.net/download.html
+
+lame - download page
+http://lame.sourceforge.net/links.php#Binaries
+
+【使い方】
+ruby flac2mp3.rb 変換するm3uファイル 変換元ファイルが存在するディレクトリ 変換先ディレクトリ
+
+例）ruby flac2mp3.rb test.m3u "Users\UserName\Music" "C:\Users\UserName\Music_MP3"
