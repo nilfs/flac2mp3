@@ -1,14 +1,14 @@
-yŠT—vz
-m3uƒtƒ@ƒCƒ‹‚É‚ ‚éflacƒtƒ@ƒCƒ‹‚ğmp3ƒtƒ@ƒCƒ‹‚É•ÏŠ·‚·‚éƒXƒNƒŠƒvƒgB
+ï»¿ã€æ¦‚è¦ã€‘
+m3uãƒ•ã‚¡ã‚¤ãƒ«ã«ã‚ã‚‹flacãƒ•ã‚¡ã‚¤ãƒ«ã‚’mp3ãƒ•ã‚¡ã‚¤ãƒ«ã«å¤‰æ›ã™ã‚‹ã‚¹ã‚¯ãƒªãƒ—ãƒˆã€‚
 
-y–Ú“Iz
-flacŒ`®‚Åæ‚è‚ñ‚¾‰¹Œ¹‚ğ‚»‚Ì‚Ü‚Ü‚ÌƒfƒBƒŒƒNƒgƒŠ\¬‚Å
-mp3Œ`®‚ÉƒGƒ“ƒR[ƒh‚·‚é‚½‚ß‚ÌƒXƒNƒŠƒvƒg
+ã€ç›®çš„ã€‘
+flacå½¢å¼ã§å–ã‚Šè¾¼ã‚“ã éŸ³æºã‚’ãã®ã¾ã¾ã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªæ§‹æˆã§
+mp3å½¢å¼ã«ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ã™ã‚‹ãŸã‚ã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆ
 
-y“®ìŠÂ‹«Šm”Fz
+ã€å‹•ä½œç’°å¢ƒç¢ºèªã€‘
 Vista x64
 
-y•K—v‚È‚à‚Ìz
+ã€å¿…è¦ãªã‚‚ã®ã€‘
 flac.exe,metaflac.exe,lame64.exe
 
 flac - download page
@@ -17,7 +17,7 @@ http://flac.sourceforge.net/download.html
 lame - download page
 http://lame.sourceforge.net/links.php#Binaries
 
-yg‚¢•ûz
-ruby flac2mp3.rb •ÏŠ·‚·‚ém3uƒtƒ@ƒCƒ‹ •ÏŠ·Œ³ƒtƒ@ƒCƒ‹‚ª‘¶İ‚·‚éƒfƒBƒŒƒNƒgƒŠ •ÏŠ·æƒfƒBƒŒƒNƒgƒŠ
+ã€ä½¿ã„æ–¹ã€‘
+ruby flac2mp3.rb å¤‰æ›ã™ã‚‹m3uãƒ•ã‚¡ã‚¤ãƒ« å¤‰æ›å…ƒãƒ•ã‚¡ã‚¤ãƒ«ãŒå­˜åœ¨ã™ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª å¤‰æ›å…ˆãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª
 
-—ájruby flac2mp3.rb test.m3u "Users\UserName\Music" "C:\Users\UserName\Music_MP3"
+ä¾‹ï¼‰ruby flac2mp3.rb test.m3u "Users\UserName\Music" "C:\Users\UserName\Music_MP3"
